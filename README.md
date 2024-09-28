@@ -7,11 +7,10 @@
 </p>
 
 O Projeto login é um tela de login responsíva.
-Este foi o quarto projeto proposto pelo curso de HTML & CSS, do <strong>Cusoemvídeo</strong>.
 
 <br>
 
-Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+Este foi o quarto projeto proposto pelo curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
 
 <br>
 
